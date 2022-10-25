@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Gaur</h1>
 <h3 align="center">I am a full stack developer, and I love building things for the web.</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulgaur&label=Profile%20views&color=0e75b6&style=flat" alt="mukulgaur" /> </p>
+<p><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulgaur&label=Profile%20views&color=0e75b6&style=flat" alt="mukulgaur" /> </p></p>
 
 - 💬 Ask me about **react, java, spring, node, express,**
 
