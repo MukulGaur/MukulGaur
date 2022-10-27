@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mukul Gaur</h1>
-<h3 align="center">I am a full stack developer, and I love building things for the web.</h3>
+<h1 align="center">Hi 👋, I'm Mukul</h1>
+![Mukul](https://github.com/MukulGaur/MukulGaur/blob/453fd3c5eb8fbfae9889f62e575b9a28bf8e16ae/Mukul.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulgaur&label=Profile%20views&color=0e75b6&style=flat" alt="mukulgaur" /> </p></p>
 
